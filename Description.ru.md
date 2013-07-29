@@ -14,6 +14,9 @@ SIM968 - 600 руб.
 <table>
     <tr>
         <td>Foo</td>
+<<<<<<< HEAD
         <td>Bar</td>
+=======
+>>>>>>> bf1f5dae332fd4590e2b3b83fc2db5ddfee7ade6
     </tr>
 </table>
