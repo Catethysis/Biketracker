@@ -11,38 +11,124 @@
 ##Список деталей
 <table>
 	<tr>
+		<td>GSM/GPS-модуль</td>
 		<td>SIM968</td>
 		<td>630 руб</td>
 	</tr>
 	<tr>
 		<td>GPS-антенна</td>
+		<td></td>
 		<td>0 руб</td>
 	</tr>
 	<tr>
 		<td>Плата</td>
+		<td></td>
 		<td>33 руб</td>
 	</tr>
 	<tr>
 		<td>Батарея</td>
+		<td></td>
 		<td>230 руб</td>
 	</tr>
 	<tr>
 		<td>USB-гнездо</td>
+		<td></td>
 		<td>20 руб</td>
 	</tr>
 	<tr>
 		<td>Акселерометр</td>
+		<td></td>
 		<td>35 руб</td>
 	</tr>
 	<tr>
 		<td>Сборка</td>
+		<td></td>
 		<td>50 руб</td>
 	</tr>
 	<tr>
 		<td><b>Итого</b></td>
+		<td></td>
 		<td><b>998 руб</b></td>
 	</tr>
 </table>
 
 ##Лайт-версия
 Определять координаты по базовым станциям. Получается не так точно, но отчасти можно это скомпенсировать акселерометром и обработкой на сервере (например, используя карту высот - искать на карте высот похожие точки). В этом случае не нужен GPS, и тратися меньше энергии.
+
+##Различные варианты аккумуляторов
+<table>
+	<tr>
+		<td>Название</td>
+		<td>Ёмкость, А*ч</td>
+		<td>Размеры</td>
+		<td>Стоимость, р</td>
+		<td>Поставщик</td>
+	</tr>
+	<tr>
+		<td>LP103450</td>
+		<td>1.75</td>
+		<td>50*34*11</td>
+		<td>254</td>
+		<td>Терраэлектроника</td>
+	</tr>
+	<tr>
+		<td>LP103454</td>
+		<td>2.00</td>
+		<td>54*34*10</td>
+		<td>247</td>
+		<td>Терраэлектроника</td>
+	</tr>
+	<tr>
+		<td>744272P</td>
+		<td>2.50</td>
+		<td>72*42*7</td>
+		<td></td>
+		<td>SzKamcy</td>
+	</tr>
+	<tr>
+		<td>053759P</td>
+		<td>1.20</td>
+		<td>59*37*5</td>
+		<td></td>
+		<td>SzKamcy</td>
+	</tr>
+	<tr>
+		<td>LPP 503759 8HH</td>
+		<td>1.40</td>
+		<td>59*37*5</td>
+		<td></td>
+		<td>varta-microbattery.com</td>
+	</tr>
+	<tr>
+		<td>LPP 454261 8TH</td>
+		<td>1.60</td>
+		<td>61*42*5</td>
+		<td></td>
+		<td>varta-microbattery.com</td>
+	</tr>
+	<tr>
+		<td>564656P</td>
+		<td>1.60</td>
+		<td>55*46*6</td>
+		<td></td>
+		<td>hbak-battery.com</td>
+	</tr>
+	<tr>
+		<td>803450P</td>
+		<td>1.45</td>
+		<td>50*34*8</td>
+		<td></td>
+		<td>hbak-battery.com</td>
+	</tr>
+	<tr>
+		<td>103450P</td>
+		<td>1.80</td>
+		<td>50*34*10</td>
+		<td></td>
+		<td>hbak-battery.com</td>
+	</tr>
+
+	
+</table>
+
+Заказать можно, в том числе, у китайцев www.szkamcy.com/ (http://electronix.ru/forum/index.php?showtopic=110801).
