@@ -11,6 +11,11 @@
 ##Список деталей
 <table>
 	<tr>
+		<td><b>Компонент</b></td>
+		<td><b>Название</b></td>
+		<td><b>Стоимость</b></td>
+	</tr>
+	<tr>
 		<td>GSM/GPS-модуль</td>
 		<td>SIM968</td>
 		<td>630 руб</td>
@@ -58,11 +63,11 @@
 ##Различные варианты аккумуляторов
 <table>
 	<tr>
-		<td>Название</td>
-		<td>Ёмкость, А*ч</td>
-		<td>Размеры</td>
-		<td>Стоимость, р</td>
-		<td>Поставщик</td>
+		<td><b>Название</b></td>
+		<td><b>Ёмкость, А*ч</b></td>
+		<td><b>Размеры</b></td>
+		<td><b>Стоимость, руб</b></td>
+		<td><b>Поставщик</b></td>
 	</tr>
 	<tr>
 		<td>LP103450</td>
@@ -131,4 +136,5 @@
 	
 </table>
 
-Заказать можно, в том числе, у китайцев www.szkamcy.com/ (http://electronix.ru/forum/index.php?showtopic=110801).
+Китайцы: www.szkamcy.com (http://electronix.ru/forum/index.php?showtopic=110801).
+www.yokenergy.com (удобный сайт)
